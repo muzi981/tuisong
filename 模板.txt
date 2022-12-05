@@ -1,0 +1,15 @@
+今天又是元气满满的一天 ૮ ·ﻌ·ა
+{{date1.DATA}}今天是：{{ date.DATA }}
+{{city1.DATA}}城市：{{area.DATA}}
+{{tq.DATA }}今天天气：{{weather.DATA }}
+{{temperature1.DATA }}当前温度：{{real.DATA }}
+{{lowest1.DATA }}最低气温：{{lowest.DATA }}
+{{highest1.DATA }}最高气温：{{highest.DATA }}
+{{wind_windsc.DATA}}风向风速：{{wind.DATA}}{{windsc.DATA}}
+{{pm25_1.DATA}}PM2.5：{{pm25.DATA}}
+{{tips1.DATA}}穿衣：{{tips.DATA}}
+{{love_days1.DATA }}{{love_days.DATA }}天
+{{birthday_left1.DATA}}{{birthday_left.DATA}}天
+{{ words.DATA }}
+                         ——你的猪猪🐷🥰
+！*★,°*:.☆(￣▽￣)/$:*.°★* 。
